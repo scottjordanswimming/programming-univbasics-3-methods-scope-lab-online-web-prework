@@ -10,6 +10,6 @@ def toadstool
 end
 
 def luigi
-  warning = 'Thank You Mario! But Our Princess Is In Another Castle!'
+  warning = "It's Dangerous To Go Alone! Take This."
   puts warning
 end
